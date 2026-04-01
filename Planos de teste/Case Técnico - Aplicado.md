@@ -3,7 +3,7 @@
 
 # **Contexto**
 
-Você está assumindo o papel de QA Analyst em um dos produtos digitais da Atomic Group, um ecossistema de educação e tecnologia voltado para aceleração de receita empresarial.
+Você está assumindo o papel de QA Analyst em um dos produtos digitais voltado para aceleração de receita empresarial.
 
 Uma nova funcionalidade será lançada em **5 dias úteis**:
 
